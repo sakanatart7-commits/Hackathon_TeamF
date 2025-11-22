@@ -2,9 +2,9 @@ using UnityEngine;
 
 public class FoodAnimationManager : MonoBehaviour
 {
-    public Animator bananaAnimator;     // バナナ用
-    public Animator riceballAnimator;    // おにぎり用
-    public Animator sandwichAnimator;   // サンドイッチ用
+    public Animator[] bananaAnimators;     // バナナ用のAnimator配列
+    public Animator[] riceballAnimators;   // おにぎり用のAnimator配列
+    public Animator[] sandwichAnimators;   // サンドイッチ用のAnimator配列
 
     private bool isReadyToPlay = false;
 
@@ -20,18 +20,26 @@ public class FoodAnimationManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.B))
         {
-            bananaAnimator.SetTrigger("Play");
+            PlayAnimation(bananaAnimators);
             isReadyToPlay = false;
         }
         else if (Input.GetKeyDown(KeyCode.R))
         {
-            riceballAnimator.SetTrigger("Play");
+            PlayAnimation(riceballAnimators); 
             isReadyToPlay = false;
         }
         else if (Input.GetKeyDown(KeyCode.S))
         {
-            sandwichAnimator.SetTrigger("Play");
+            PlayAnimation(sandwichAnimators);
             isReadyToPlay = false;
+        }
+    }
+
+    private void PlayAnimation(Animator[] animators)
+    {
+        foreach (Animator anim in animators)
+        {
+            anim.SetTrigger("Play"); // Animatorに「Play」トリガーを送る
         }
     }
 }

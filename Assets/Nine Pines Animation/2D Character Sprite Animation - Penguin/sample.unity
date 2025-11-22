@@ -804,9 +804,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd51b44ab95b0aa4f993a0be998da190, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FoodAnimationManager
-  bananaAnimator: {fileID: 0}
-  riceballAnimator: {fileID: 0}
-  sandwichAnimator: {fileID: 0}
+  bananaAnimators:
+  - {fileID: 923143090}
+  - {fileID: 1627060508}
+  - {fileID: 59951728}
+  riceballAnimators: []
+  sandwichAnimators: []
 --- !u!4 &1232934261
 Transform:
   m_ObjectHideFlags: 0
