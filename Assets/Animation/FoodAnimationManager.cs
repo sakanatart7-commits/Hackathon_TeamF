@@ -6,6 +6,11 @@ public class FoodAnimationManager : MonoBehaviour
     public Animator[] riceballAnimators;   // おにぎり用のAnimator配列
     public Animator[] sandwichAnimators;   // サンドイッチ用のAnimator配列
 
+    public Animator[] bananaExplainAnimators;     // バナナ豆知識説明用のAnimator配列
+    public Animator[] riceballExplainAnimators;   //  おにぎり豆知識説明用のAnimator配列
+    public Animator[] sandwichExplainAnimators;   //  サンドイッチ豆知識説明用のAnimator配列
+
+
     private bool isReadyToPlay = false;
 
     void Start()

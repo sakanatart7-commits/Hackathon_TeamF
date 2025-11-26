@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 7110defa427d8624b97bd63a2983764b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3012584720377797629
+    second: jitensya_kappa_0
+  - first:
+      213: -1297367714646985564
+    second: jitensya_kappa_1
+  - first:
+      213: -7800584142056566452
+    second: jitensya_kappa_2
+  - first:
+      213: 6965627519712812405
+    second: jitensya_kappa_3
+  - first:
+      213: -4749072409229670483
+    second: jitensya_kappa_4
+  - first:
+      213: -4203061597108312647
+    second: jitensya_kappa_5
+  - first:
+      213: 81768095929714419
+    second: jitensya_kappa_6
+  - first:
+      213: -410701539091592718
+    second: jitensya_kappa_7
+  - first:
+      213: -8069617117382530289
+    second: jitensya_kappa_8
+  - first:
+      213: -4833055461051641408
+    second: jitensya_kappa_9
+  - first:
+      213: 2903297170866253121
+    second: jitensya_kappa_10
+  - first:
+      213: -1184173078911550301
+    second: jitensya_kappa_11
+  - first:
+      213: -742813199889570784
+    second: jitensya_kappa_12
+  - first:
+      213: -4385736822192897509
+    second: jitensya_kappa_13
+  - first:
+      213: -6938275233985997839
+    second: jitensya_kappa_14
+  - first:
+      213: -2215589881924238097
+    second: jitensya_kappa_15
+  - first:
+      213: -8489952160486961897
+    second: jitensya_kappa_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jitensya_kappa_0
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 760
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304ac1e78262136d0800000000000000
+      internalID: -3012584720377797629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 772
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4f761ffe2defde0800000000000000
+      internalID: -1297367714646985564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 769
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415c245d02ceb390800000000000000
+      internalID: -7800584142056566452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 12
+        width: 323
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dda2ed251eaa060800000000000000
+      internalID: 6965627519712812405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 751
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7c1433ec7e71eb0800000000000000
+      internalID: -4749072409229670483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 625
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5e5470fb9bba5c0800000000000000
+      internalID: -4203061597108312647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 509
+        width: 90
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6c9d766af722100800000000000000
+      internalID: 81768095929714419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 464
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94dbd4025ec4af0800000000000000
+      internalID: -410701539091592718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 542
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ba0058cf5f20090800000000000000
+      internalID: -8069617117382530289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 492
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c151403aa98decb0800000000000000
+      internalID: -4833055461051641408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 469
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d21e205659a4820800000000000000
+      internalID: 2903297170866253121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 507
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac75e6dbd8f09fe0800000000000000
+      internalID: -1184173078911550301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 386
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0246c1e845ff0b5f0800000000000000
+      internalID: -742813199889570784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 451
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1287dac89bb223c0800000000000000
+      internalID: -4385736822192897509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 372
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3df5c6f6b46bf90800000000000000
+      internalID: -6938275233985997839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_15
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 456
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4c4f7bdb4a041e0800000000000000
+      internalID: -2215589881924238097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jitensya_kappa_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 349
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d4d12ed71ad2a80800000000000000
+      internalID: -8489952160486961897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jitensya_kappa_0: -3012584720377797629
+      jitensya_kappa_1: -1297367714646985564
+      jitensya_kappa_10: 2903297170866253121
+      jitensya_kappa_11: -1184173078911550301
+      jitensya_kappa_12: -742813199889570784
+      jitensya_kappa_13: -4385736822192897509
+      jitensya_kappa_14: -6938275233985997839
+      jitensya_kappa_15: -2215589881924238097
+      jitensya_kappa_16: -8489952160486961897
+      jitensya_kappa_2: -7800584142056566452
+      jitensya_kappa_3: 6965627519712812405
+      jitensya_kappa_4: -4749072409229670483
+      jitensya_kappa_5: -4203061597108312647
+      jitensya_kappa_6: 81768095929714419
+      jitensya_kappa_7: -410701539091592718
+      jitensya_kappa_8: -8069617117382530289
+      jitensya_kappa_9: -4833055461051641408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
